@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source Web Projects (Frontend / PHP)**
 
-- 🤝 I’m looking for help with [Backend Optimization & Security](https://github.com/shishir-21/php-task-manager)
+- 🤝 I’m looking for help with [Backend Optimization & Security](https://github.com/shishir-21/map-based-hotel-booking)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shishir-21](https://github.com/shishir-21)
 
