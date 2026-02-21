@@ -27,7 +27,7 @@
 
 - 🔗 Portfolio & Projects: https://github.com/shishir-21
 
-- 📄 Resume: https://github.com/shishir-21/resume/blob/main/Shishir_resume.pdf
+- 📄 Resume: https://drive.google.com/file/d/1wkkaOpjqW9jmwCWkGDAGhgiWyCVP1hfz/view?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3>
